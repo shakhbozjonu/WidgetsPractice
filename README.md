@@ -1,16 +1,22 @@
-# widgetspractice
+# Widgets practice
 
-A new Flutter project.
+By Shakhbozjon Usmonov,
+ID: 2110127,
+Group: JSE05.
 
-## Getting Started
+## Running the Project
 
-This project is a starting point for a Flutter application.
+To run this project, you'll need to have Flutter installed on your system. Once you have Flutter installed, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone this repository to your computer.
+2. You can open the project in any compatible IDE.
+3. Connect your device or emulator to your computer.
+4. In your IDE, run the `flutter run` command.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Code Overview
+1. For the sake of neatness, the project consists of different files.
+2. MyStatelessWidget.dart includes the key components of most of the textfields of the project as a stateless widget.
+3. MyStatefulWidget.dart file is where the code for the responsive 'TAP ME' button and incrementing number.
+4. Mainpage.dart file is where all the components of my code work as a dummy project.
+
